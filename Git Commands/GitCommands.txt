@@ -1,0 +1,51 @@
+
+git --version
+
+git clone https://github.com/Akhileshwarvuppala/TestCafePractice.git
+
+git status
+
+git add Day1/
+
+git commit -m "Day1 TestCafe Program"
+ 
+git log
+
+git push -u origin master
+
+Akhileshwarvuppala
+akhileshwar17071a0258
+
+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
+
+========================================================================
+
+
+echo "# TestCafePractice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+//git branch -M master
+
+git remote set-url [--push] <name> <newurl> [<oldurl>]
+
+ git remote set-url --push TestCafePractice https://github.com/Akhileshwarvuppala/TestCafePractice.git
+ 
+git remote add origin https://github.com/Akhileshwarvuppala/TestCafePractice.git
+git push -u origin master
+\
+
+git config --global user.name "Akhileshwarvuppala"
+git config --global user.email "vuppala22@gmail.com"
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:alexpchin/<reponame>.git
+git push -u origin master
+
+git clone https://github.com/Akhileshwarvuppala/coursera_assignments.git
+
+
+
